@@ -1,0 +1,14 @@
+D:\Dev\SVN\Commerce\MovieNetFront\bin\Debug\netcoreapp2.0\FRONT.deps.json
+D:\Dev\SVN\Commerce\MovieNetFront\bin\Debug\netcoreapp2.0\FRONT.runtimeconfig.json
+D:\Dev\SVN\Commerce\MovieNetFront\bin\Debug\netcoreapp2.0\FRONT.runtimeconfig.dev.json
+D:\Dev\SVN\Commerce\MovieNetFront\bin\Debug\netcoreapp2.0\FRONT.dll
+D:\Dev\SVN\Commerce\MovieNetFront\bin\Debug\netcoreapp2.0\FRONT.pdb
+D:\Dev\SVN\Commerce\MovieNetFront\bin\Debug\netcoreapp2.0\API.dll
+D:\Dev\SVN\Commerce\MovieNetFront\bin\Debug\netcoreapp2.0\API.pdb
+D:\Dev\SVN\Commerce\MovieNetFront\obj\Debug\netcoreapp2.0\FRONT.csprojAssemblyReference.cache
+D:\Dev\SVN\Commerce\MovieNetFront\obj\Debug\netcoreapp2.0\FRONT.csproj.CoreCompileInputs.cache
+D:\Dev\SVN\Commerce\MovieNetFront\obj\Debug\netcoreapp2.0\FRONT.AssemblyInfoInputs.cache
+D:\Dev\SVN\Commerce\MovieNetFront\obj\Debug\netcoreapp2.0\FRONT.AssemblyInfo.cs
+D:\Dev\SVN\Commerce\MovieNetFront\obj\Debug\netcoreapp2.0\FRONT.csproj.CopyComplete
+D:\Dev\SVN\Commerce\MovieNetFront\obj\Debug\netcoreapp2.0\FRONT.dll
+D:\Dev\SVN\Commerce\MovieNetFront\obj\Debug\netcoreapp2.0\FRONT.pdb

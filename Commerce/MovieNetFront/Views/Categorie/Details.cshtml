@@ -1,0 +1,30 @@
+﻿@model API.Model.Categorie
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Produit</h4>
+    <hr />
+    <table>
+        <thead>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Name)</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => model.Name)
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> 
+    <a asp-action="Index">Back to List</a>
+</div>
